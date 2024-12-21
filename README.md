@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://rhexx.pythonanywhere.com/](https://rhexx.pythonanywhere.com/)
 
-- ⚡ Fun fact **I'm a pianist....a musician lover**
+- ⚡ Fun fact **I'm a pianist....a musician...music lover**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
