@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/rh_exxie" target="blank"><img src="https://img.shields.io/twitter/follow/rh_exxie?logo=twitter&style=for-the-badge" alt="rh_exxie" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript**
-
 - 👨‍💻 All of my projects are available at [https://rhexx.pythonanywhere.com/](https://rhexx.pythonanywhere.com/)
 
 - 💬 Ask me about **Django, Python**
