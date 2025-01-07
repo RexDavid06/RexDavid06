@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rexdavid06&label=Profile%20views&color=0e75b6&style=flat" alt="rexdavid06" /> </p>
 
 <p align="left"> <a href="https://twitter.com/rh_exxie" target="blank"><img src="https://img.shields.io/twitter/follow/rh_exxie?logo=twitter&style=for-the-badge" alt="rh_exxie" /></a> </p>
+- Currently learning about Docker Containerization 
 
 - 👨‍💻 All of my projects are available at [https://rhexx.pythonanywhere.com/](https://rhexx.pythonanywhere.com/)
 
