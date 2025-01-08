@@ -6,13 +6,13 @@
 <p align="left"> <a href="https://twitter.com/rh_exxie" target="blank"><img src="https://img.shields.io/twitter/follow/rh_exxie?logo=twitter&style=for-the-badge" alt="rh_exxie" /></a> </p>
 - Currently learning about Docker Containerization 
 
-- 👨‍💻 All of my projects are available HERE
+- 👨‍💻 All of my projects are available https://rexdavid06.github.io/mysite/
 
 - 💬 Ask me about **Django, Python**
 
 - 📫 How to reach me **rhexmilia06@gmail.com**
 
-- 📄 Know about my experiences [https://rhexx.pythonanywhere.com/](https://rhexx.pythonanywhere.com/)
+- 📄 Know about my experiences https://rexdavid06.github.io/mysite/                                    
 
 - ⚡ Fun fact **I'm a pianist....a musician...music lover**
 
