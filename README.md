@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/rh_exxie" target="blank"><img src="https://img.shields.io/twitter/follow/rh_exxie?logo=twitter&style=for-the-badge" alt="rh_exxie" /></a> </p>
 
 
-- 👨‍💻 My Portfolio: my-site-tau-two.vercel.app
+- 👨‍💻 My Portfolio: https://my-site-tau-two.vercel.app/
 
 - 💬 Ask me about **Django, Python**
 
