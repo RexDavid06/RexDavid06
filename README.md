@@ -8,7 +8,7 @@
 
 - 👨‍💻 My Portfolio: https://my-site-tau-two.vercel.app/
 
-- 💬 Ask me about **Django, Python**
+- 💬 Ask me about **DjangoRestFramework, Python**
 
 - 📫 How to reach me **rhexmilia06@gmail.com**                             
 
