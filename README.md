@@ -19,7 +19,6 @@
 <a href="https://twitter.com/rh_exxie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rh_exxie" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rex-david-buchi-54493a241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rex-david-buchi-54493a241" height="30" width="40" /></a>
 <a href="https://fb.com/rexdavid4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rexdavid4" height="30" width="40" /></a>
-<a href="https://instagram.com/rh_e_x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rh_e_x" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
