@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Buchi Rex-David</h1>
-<h3 align="center">Backend Developer | Django & Fintech Systems</h3>
+# Hi 👋, I'm Buchi Rex‑David
+
+### Backend Developer • Django • Fintech Systems
 
 <p align="center">
   <a href="https://my-site-tau-two.vercel.app/" target="_blank">Portfolio</a> •
@@ -10,52 +11,74 @@
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- Backend Developer focused on building **scalable APIs**
-- Strong with **Django & Django REST Framework**
-- Currently building **fintech systems (wallets, transfers, APIs)**
-- Background in **Mechanical Engineering**
-- Passionate about solving real-world problems with code
+I’m Buchi (Rex‑David), a backend developer focused on building scalable APIs and fintech systems — wallets, transfers and transaction platforms. I work primarily with Django and Django REST Framework and enjoy applying engineering discipline (I studied Mechanical Engineering) to design resilient, maintainable backend services.
+
+- 🔭 Currently: Building a Fintech API (wallets, transfers, transaction history)
+- 🌱 Learning: System design, scalable architectures, and async processing
+- ⚙️ Main stack: Python, Django, DRF, PostgreSQL, Docker, Celery, Redis
+- 🎵 Fun fact: I’m also a pianist — I think in code and music 🎹
 
 ---
 
-### ⚙️ Tech Stack
+## 🚀 What I do
+
+- Design and implement RESTful APIs and backend services
+- Build reliable payment and wallet systems for fintech products
+- Implement asynchronous tasks (Celery + Redis) and background processing
+- Optimize data models and database transactions for financial consistency
+
+---
+
+## 🛠️ Tech & Tools
 
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" alt="Python"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="36" alt="Django"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="36" alt="PostgreSQL"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="36" alt="Git"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="36" alt="Postman"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="36" alt="Docker"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="36" alt="Redis"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/celery/celery-original.svg" width="36" alt="Celery"/>
 </p>
 
 ---
 
-### 🚀 Current Focus
+## 🔭 Current Focus
 
-- Building a **Fintech API (Wallets, Transfers, Transactions)**
-- Learning **system design & scalable backend architecture**
-- Exploring **async tasks (Celery, Redis)**
-
----
-
-### ⚡ Fun Fact
-
-I’m also a **pianist 🎹** — I think in code and music.
+- Shipping a production-ready Fintech API: reliable wallets, secure transfers, and robust transaction auditing
+- Improving system reliability and observability
+- Exploring event-driven architectures and async processing patterns
 
 ---
 
-### 📊 GitHub Stats
+## 🌟 Featured
+
+- Portfolio — https://my-site-tau-two.vercel.app/
+- Open to collaborating on fintech, payments, and backend projects
+
+---
+
+## 📫 Contact
+
+- Email: rhexmilia06@gmail.com
+- LinkedIn: https://linkedin.com/in/rex-david-buchi-54493a241
+- Twitter: https://twitter.com/rh_exxie
+
+---
+
+## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=rexdavid06&show_icons=true&locale=en" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rexdavid06&show_icons=true&locale=en" alt="GitHub stats" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rexdavid06&show_icons=true&locale=en&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rexdavid06&show_icons=true&locale=en&layout=compact" alt="Top languages" />
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rexdavid06&" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rexdavid06&" alt="GitHub streak" />
 </p>
