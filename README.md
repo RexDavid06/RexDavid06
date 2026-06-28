@@ -16,8 +16,8 @@
 I’m Buchi (Rex‑David), a backend developer focused on building scalable APIs and fintech systems — wallets, transfers and transaction platforms. I work primarily with Django and Django REST Framework and enjoy applying engineering discipline (I studied Mechanical Engineering) to design resilient, maintainable backend services.
 
 - 🔭 Currently: Building a Fintech API (wallets, transfers, transaction history)
-- 🌱 Learning: System design, scalable architectures, and async processing
-- ⚙️ Main stack: Python, Django, DRF, PostgreSQL, Docker, Celery, Redis
+- 🌱 Learning: System design, scalable architectures, docker and async processing
+- ⚙️ Main stack: Python, Django, DRF, PostgreSQL
 - 🎵 Fun fact: I’m also a pianist — I think in code and music 🎹
 
 ---
@@ -26,7 +26,6 @@ I’m Buchi (Rex‑David), a backend developer focused on building scalable APIs
 
 - Design and implement RESTful APIs and backend services
 - Build reliable payment and wallet systems for fintech products
-- Implement asynchronous tasks (Celery + Redis) and background processing
 - Optimize data models and database transactions for financial consistency
 
 ---
@@ -38,10 +37,7 @@ I’m Buchi (Rex‑David), a backend developer focused on building scalable APIs
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="36" alt="Django"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="36" alt="PostgreSQL"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="36" alt="Git"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="36" alt="Postman"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="36" alt="Docker"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="36" alt="Redis"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/celery/celery-original.svg" width="36" alt="Celery"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="36" alt="Postman"/> 
 </p>
 
 ---
